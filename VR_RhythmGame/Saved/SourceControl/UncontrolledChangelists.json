@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Lenovo/Documents/GitHub/VR_RhythmGame/VR_RhythmGame/Content/MetaHumans/Keanu_reeves/BP_Keanu_reeves_convAI.uasset",
+				"C:/Users/Lenovo/Documents/GitHub/VR_RhythmGame/VR_RhythmGame/Content/VRLevel/VRMap.umap",
+				"C:/Users/Lenovo/Documents/GitHub/VR_RhythmGame/VR_RhythmGame/Content/VRLevel/SpawnSequence.uasset",
+				"C:/Users/Lenovo/Documents/GitHub/VR_RhythmGame/VR_RhythmGame/Content/VRLevel/BP_DropCube.uasset",
 				"C:/Users/Lenovo/Documents/Unreal Projects/VR_RhythmGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
