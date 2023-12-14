@@ -1,15 +1,12 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-
 # UE file types
 *.uasset -text
 *.umap -text
 *.udk -text
 *.upk -text
-
 # Anything in `/RawContent` dir. [You create this directory in your projects root folder]
 /RawContent/**/* -text
-
 # Raw Content types
 *.blend -text
 *.duf -text
@@ -32,3 +29,6 @@
 *.cubemap -text
 *.tif -text
 *.xcf -text
+C:/Users/Lenovo/Documents/GitHub/VR_RhythmGame/VR_RhythmGame/Content/MetaHumans/Common/Face/Face_Archetype.uasset filter=lfs diff=lfs merge=lfs -text
+C:/Users/Lenovo/Documents/GitHub/VR_RhythmGame/VR_RhythmGame/Content/MetaHumans/Keanu_reeves/Face/Keanu_reeves2_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+C:/Users/Lenovo/Documents/GitHub/VR_RhythmGame/VR_RhythmGame/Content/MetaHumans/Natalia/Face/Natalia_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
